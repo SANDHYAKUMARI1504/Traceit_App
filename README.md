@@ -16,7 +16,7 @@ TraceIT is a user-friendly platform developed for a college environment that hel
 - [Project Structure](#project-structure)
 - [Scripts](#scripts)
 - [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
 
 ---
 
