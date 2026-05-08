@@ -150,6 +150,8 @@ Please ensure your code passes linting and type checks before submitting a pull 
 
 ---
 
-## License
+## Author
 
-This project is currently unlicensed. All rights are reserved by the TraceIT development team unless otherwise specified.
+Sandhya Kumari
+
+GitHub: [SANDHYAKUMARI1504](https://github.com/SANDHYAKUMARI1504)
